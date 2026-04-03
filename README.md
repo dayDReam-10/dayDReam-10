@@ -32,3 +32,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/dayDReam-10/dayDReam-10/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+
+## [ 📊 SYSTEM_METRICS ]
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dayDReam-10/dayDReam-10/main/github-metrics.svg" alt="Metrics" />
+</p>
