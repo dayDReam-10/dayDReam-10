@@ -13,7 +13,17 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          # 强制黑白调：所有语言条都变灰阶
+          
+          # --- 核心风格设定 ---
+          config_display: large
+          config_padding: 0, 8 + 10%
+          
+          # --- 语言统计（去色，变黑白灰）---
           plugin_languages: yes
-          plugin_languages_colors: "white, lightgray, gray, darkgray"
-          plugin_lines: yes
+          plugin_languages_colors: "white, lightgray, gray, darkgray, black"
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          
+          # --- 活跃度日历 (这是 Phrinky 主页最酷的部分) ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year # 显示半年的活跃度
