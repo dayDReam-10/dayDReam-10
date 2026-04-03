@@ -6,8 +6,6 @@
 
 ---
 
-### 🛠️ [ TECH_STACK ]
-
 > **"Code is the law, logic is the weapon."**
 
 - **Languages:** `Java` `Python` `C++` `PHP` `LaTeX`
@@ -17,13 +15,9 @@
 
 ---
 
-### 📊 [ ACTIVITY_DASHBOARD ]
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/dayDReam-10/dayDReam-10/main/github-metrics.svg" alt="System Metrics" />
 </p>
-
-### 🏙️ [ CODE_CITY_3D ]
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dayDReam-10/dayDReam-10/main/profile-3d-contrib/profile-night-rainbow.svg" width="85%" />
