@@ -28,8 +28,7 @@
 </p>
 
 ---
-
-[![Daydream's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=你的GitHub用户名&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Daydream's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dayDReam-10&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
