@@ -1,7 +1,7 @@
 # ⚡ [ SYSTEM_ACCESS: dayDReam-10 ] ⚡
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F0F6FC&center=true&vCenter=true&width=600&lines=Full-Stack+Java+Developer;Pwn+%2F+Reverse+Engineering;Numerical+Analysis+Enthusiast;>_Everything+is+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F0F6FC&center=true&vCenter=true&width=600&lines=Pwn+%2F+Reverse+Engineering;Numerical+Analysis+Enthusiast;>_Everything+is+code." alt="Typing SVG" />
 </p>
 
 ---
