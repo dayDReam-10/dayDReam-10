@@ -37,3 +37,14 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
+
+          # --- 优化后的活跃度配置 ---
+          plugin_activity: yes
+          plugin_activity_type: summary
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          
+          # --- 优化后的成就配置 ---
+          plugin_achievements: yes
+          plugin_achievements_threshold: C # 只显示比较高级的奖章，减少计算量
+          plugin_achievements_display: compact
