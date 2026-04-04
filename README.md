@@ -29,10 +29,7 @@
 
 ---
 
-### 📁 [ RECENT_REPOSITORIES ]
-
-* 📝 **[RE-PWN_Writeups](https://github.com/dayDReam-10/RE-PWN_Writeups)** - CTF 刷题记录与二进制漏洞分析。
-* 🎮 **[ExpRule](https://github.com/dayDReam-10/ExpRule)** - 死亡经验掉落控制插件。
+[![Daydream's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=你的GitHub用户名&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
