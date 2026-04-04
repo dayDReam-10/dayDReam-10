@@ -14,18 +14,14 @@
 - **Project:** [ExpRule](https://github.com/dayDReam-10/ExpRule) - Minecraft Java Plugin (v1.21.1)
 
 ---
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/dayDReam-10/dayDReam-10/main/github-metrics.svg" alt="System Metrics" />
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/dayDReam-10/dayDReam-10/main/profile-3d-contrib/profile-night-rainbow.svg" width="85%" />
 </p>
-
 ---
 [![Daydream's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dayDReam-10&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 <p align="right">
