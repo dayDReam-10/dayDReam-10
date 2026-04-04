@@ -24,6 +24,16 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           
-          # --- 活跃度日历 (这是 Phrinky 主页最酷的部分) ---
+          
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year # 显示半年的活跃度
+
+          # --- 开启十字雷达图 (Activity Overview) ---
+          plugin_activity: yes
+          plugin_activity_type: summary
+          plugin_activity_charts: yes
+          
+          # --- 如果你还想要奖章模块（那个也很豪华） ---
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
