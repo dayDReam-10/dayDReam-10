@@ -11,7 +11,7 @@
 - **Languages:** `Java` `Python` `C++`
 - **Security:** `x86_64_Pwn` `Reverse_Engineering` `IDA_Pro` `GDB`
 - **Backend:** `MySQL` `WSL2(Ubuntu)`
-- **Project:** [ExpRule](https://github.com/dayDReam-10/ExpRule) - Minecraft Java Plugin (v1.21.1)
+- **Project:** [ExpRule](https://github.com/dayDReam-10/McPlugins) - Minecraft Java Plugin (v1.21.1)
 
 ---
 
