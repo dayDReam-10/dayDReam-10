@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/CTF-Pwn-red?style=for-the-badge&logo=ctf" />
     <img src="https://img.shields.io/badge/Reverse-Engineering-purple?style=for-the-badge" />
     <img src="https://img.shields.io/badge/GDB-Pwndbg-cyan?style=for-the-badge&logo=gnu" />
-    <img src="https://img.shields.io/badge/Linux-WSL2%20%2F%20Ubuntu-orange?style=for-the-badge&logo=linux" />
+    <img src="https://img.shields.io/badge/Linux-WSL2%20%20Ubuntu-orange?style=for-the-badge&logo=linux" />
   </p>
 </details>
 
