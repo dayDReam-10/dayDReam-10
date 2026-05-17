@@ -2,10 +2,9 @@ name: Generate 3D Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 每天凌晨更新
+    - cron: "0 0 * * *"
   workflow_dispatch: 
 
-# 赋予 Actions 写入仓库的权限，防止 Commit & Push 时报 Permission denied 错误
 permissions:
   contents: write
 
@@ -19,7 +18,6 @@ jobs:
       - name: Generate 3D Contribution Calendar
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          # 核心修复：通过环境变量传入 Token 和用户名
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: dayDReam-10
 
