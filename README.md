@@ -62,12 +62,12 @@
 ---
 
 ### 📊 System Telemetry
-
 <div align="center">
-  <!-- 静态 GitHub 基础数据卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dayDReam-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <!-- 静态常用语言卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayDReam-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <!-- 优化后的 GitHub Stats 卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dayDReam-10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  
+  <!-- 优化后的语言统计卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayDReam-10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br>
